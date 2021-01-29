@@ -45,7 +45,7 @@ export default {
         return {
             name: "Dayu",
             currentPage: "Login Page",
-            url: "http://localhost:3000",
+            url: "https://kanban-app-florence.herokuapp.com",
             categoryTask: [],
             requestTaskId: []
         }
